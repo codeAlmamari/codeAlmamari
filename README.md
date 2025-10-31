@@ -25,9 +25,9 @@ const Abdulrahman  = {
 =
 
 ## :computer: Technologies I Love
-* Figma
 * .NET 
-* reactjs
+* Angular
+* API
 * Frontend and Backend Web Development
 
 
